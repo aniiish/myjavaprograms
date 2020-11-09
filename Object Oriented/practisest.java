@@ -18,7 +18,7 @@ public class practisest{
     public static void main(String[] args) {
      
     student anish = new student();
-     anish.setName("ayush");
+     anish.setName("Anish");
      System.out.print(anish.getName());
         
     }
